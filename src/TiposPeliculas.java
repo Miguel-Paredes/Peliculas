@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class TiposPeliculas {
+public class TiposPeliculas {
+    //las instancias son los objetos
+
 }
