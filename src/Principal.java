@@ -1,8 +1,11 @@
+import java.util.Scanner;
+
 public class Principal {
     public static void main(String[] args) {
         System.out.println("Hola");
     }
 
-    //comentario random
-    //comentario2
+    //instancias
+    Scanner entrada = new Scanner(System.in);
+
 }
