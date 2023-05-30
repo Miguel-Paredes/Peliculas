@@ -7,5 +7,6 @@ public class Principal {
 
     //instancias
     Scanner entrada = new Scanner(System.in);
+    TiposPeliculas terror = new ;
 
 }
