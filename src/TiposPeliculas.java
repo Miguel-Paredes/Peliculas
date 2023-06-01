@@ -96,7 +96,7 @@ public class TiposPeliculas {
     public void setCompany_creacion(String company_creacion) {
         this.company_creacion = company_creacion;
     }
-    public void inprimirpelicula(){
+    public void imprimirpelicula(){
         System.out.println(this.NomPelicula);
         System.out.println(this.act_principal);
         System.out.println(this.tipo);
