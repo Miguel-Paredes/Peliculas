@@ -6,7 +6,6 @@ public class Principal {
         //instancias
         Scanner entrada = new Scanner(System.in);
 
-
         TiposPeliculas HarryPoter = new TiposPeliculas(
                 "Harry Potter y el cáliz de fuego",
                 "Fantasía", 2005,
