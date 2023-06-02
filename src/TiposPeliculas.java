@@ -49,6 +49,8 @@ public class TiposPeliculas {
         this.year = year;
     }
 
+
+//
     public String getLugar_creacion() {
         return lugar_creacion;
     }
