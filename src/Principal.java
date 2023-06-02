@@ -108,12 +108,59 @@ public class Principal {
                 "Estados Unidos",
                 "Warner Bros"
         );
-
-
-
-
-
-
+        TiposPeliculas Rapidos_y_Fruriosos = new TiposPeliculas(
+                "Rapidos y Furiosos",
+                "Accion",
+                2021,
+                "EEUU",
+                "Vin Diesel",
+                94,
+                "Para mayores de 13 años",
+                "EEUU",
+                "Universal Pictures");
+        TiposPeliculas DeadPool = new TiposPeliculas(
+                "Deadpool",
+                "Accion",
+                2016,
+                "EEUU",
+                "Ryan Reynolds",
+                108,
+                "R",
+                "EEUU",
+                "20th Century Animation");
+        TiposPeliculas John_Wick = new TiposPeliculas(
+                "John Wick",
+                "Accion",
+                2014,
+                "EEUU",
+                "Keanu Reeves",
+                101,
+                "R",
+                "EEUU",
+                "Lionsgate Films");
+        TiposPeliculas Piratas_del_Caribe = new TiposPeliculas(
+                "Piratas del Caribe",
+                "Aventuras",
+                2003,
+                "EEUU",
+                "Johnny Depp",
+                143,
+                "PG-13",
+                "EEUU",
+                "Walt Disney Pictures");
         HarryPoter.imprimirpelicula();
+        Megan.imprimirpelicula();
+        Encanto.imprimirpelicula();
+        Eljusticiero.imprimirpelicula();
+        Dune.imprimirpelicula();
+        The_pianist.imprimirpelicula();
+        The_Batman.imprimirpelicula();
+        Dont_look_up.imprimirpelicula();
+        Project_X.imprimirpelicula();
+        Creed.imprimirpelicula();
+        Rapidos_y_Fruriosos.imprimirpelicula();
+        John_Wick.imprimirpelicula();
+        DeadPool.imprimirpelicula();
+        Piratas_del_Caribe.imprimirpelicula();
     }
 }
